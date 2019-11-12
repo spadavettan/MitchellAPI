@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MitchellAPI", "Learn.MVC\MitchellAPI.csproj", "{DE945F00-EB80-4B5E-B3BC-8E73792B5DBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTestProject1\UnitTest.csproj", "{25A6807C-2C0A-44DB-9B24-3A462627E93D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE945F00-EB80-4B5E-B3BC-8E73792B5DBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE945F00-EB80-4B5E-B3BC-8E73792B5DBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE945F00-EB80-4B5E-B3BC-8E73792B5DBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE945F00-EB80-4B5E-B3BC-8E73792B5DBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25A6807C-2C0A-44DB-9B24-3A462627E93D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25A6807C-2C0A-44DB-9B24-3A462627E93D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25A6807C-2C0A-44DB-9B24-3A462627E93D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25A6807C-2C0A-44DB-9B24-3A462627E93D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3B9F1C1-614F-4C8C-A88F-E9E00DCB6272}
+	EndGlobalSection
+EndGlobal
